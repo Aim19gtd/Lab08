@@ -11,6 +11,7 @@ namespace Lab08
         float Aim;
         float Nene;
         float Zeza;
+        float Chot;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
