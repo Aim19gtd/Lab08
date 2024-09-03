@@ -10,6 +10,7 @@ namespace Lab08
         private SpriteBatch _spriteBatch;
         float Aim;
         float Nene;
+        float Zeza;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
